@@ -7,7 +7,7 @@ int main(){
     cout<<"hello world "<<endl;
     cout<<"hello GitHub"<<endl;
     int a,b;
-    cout<<"enter the numbers "<<endl;
+    cout<<"Enter the numbers "<<endl;
     cin>>a>>b;
     cout<<"sum is "<<sum(a,b)<<endl;
     int age;
